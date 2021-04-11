@@ -16,9 +16,9 @@ export default function Navigation() {
             <Link className="nav-item nav-link active text-white" to="/">
               Home <span className=" sr-only">(current)</span>
             </Link>
-            <Link className="nav-item nav-link text-white" to="/hero">
+            {/* <Link className="nav-item nav-link text-white" to="/hero">
               Features
-            </Link>
+            </Link> */}
             <Link className="text-white nav-item nav-link" to="/anime">
               Anime
             </Link>
